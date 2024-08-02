@@ -1,2 +1,2 @@
-# reinit
+# README 
 let's start over...
